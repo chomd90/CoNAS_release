@@ -1,11 +1,15 @@
 ## One-Shot Neural Architecture Search Via Compressive Sensing: CoNAS
 
-This is the code to reproduce the results from the paper.
+This is the code to reproduce the results from the paper. Implemented the code based on this [DARTs code](https://github.com/khanrc/pt.darts)
+
+<p>
+<img src="figures/conas_normal.png" height="300">
+<img src="figures/conas_reduce.png" height="300">
+</p>
 
 ### Setup
 
 To setup the environment, use the requirements.txt file. 
-
 
 
 ### Codes
