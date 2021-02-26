@@ -3,8 +3,10 @@
 This is the code to reproduce the results from the paper. Implemented the code based on this [DARTs code](https://github.com/khanrc/pt.darts)
 
 <p>
-<img src="figures/conas_normal.png" height="300">
-<img src="figures/conas_reduce.png" height="300">
+<img src="figures/conas_normal.png" height="100">
+<figcaption>Normal Cell.</figcaption>
+<img src="figures/conas_reduce.png" height="100">
+<figcaption>Reduce Cell.</figcaption>
 </p>
 
 ### Setup
